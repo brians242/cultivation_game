@@ -1,6 +1,7 @@
 # HELLO HUGE DISCLAIMER SECTION 
 
 - Run with python3 -m http.server 8000, then go to http://localhost/8000
+- click on cultivation_game_fixed. i might change this in the morning for more features idk we'll see
 - CHANGE LINE 480 TO YOUR ACTUAL CLAUDE API KEY SO IT ACTUALLY WORKS THE FALLBACKS ARE REALLY SCUFFED NGL cus i didnt put enough time in i spent so much effort
     - And if u dont wanna use claude gg i dont wanna figure out how u might do that sorry 😭😭😭😭😭
 - it's kinda cooked ngl bro
