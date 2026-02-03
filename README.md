@@ -1,8 +1,9 @@
 # HELLO HUGE DISCLAIMER SECTION 
 
-- Run with python3 -m http.server 8000, then go to http://localhost/8000
-- click on cultivation_game_fixed. i might change this in the morning for more features idk we'll see
-- CHANGE LINE 480 TO YOUR ACTUAL CLAUDE API KEY SO IT ACTUALLY WORKS THE FALLBACKS ARE REALLY SCUFFED NGL cus i didnt put enough time in i spent so much effort
+- 1) [download or copy ssh](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+- 2) Run with python3 -m http.server 8000, then go to http://localhost/8000
+- 3) click on cultivation_game_fixed. i might change this in the morning for more features idk we'll see
+- 4) CHANGE LINE 480 TO YOUR ACTUAL CLAUDE API KEY SO IT ACTUALLY WORKS THE FALLBACKS ARE REALLY SCUFFED NGL cus i didnt put enough time in i spent so much effort
     - https://platform.claude.com/docs/en/api/admin/api_keys/retrieve (if you dont have one)
     - And if u dont wanna use claude gg i dont wanna figure out how u might do that sorry 😭😭😭😭😭
 - it's kinda cooked ngl bro
