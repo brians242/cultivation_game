@@ -1,11 +1,11 @@
 # HELLO HUGE DISCLAIMER SECTION 
 
-- 1) [download or copy ssh](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-- 2) Run with python3 -m http.server 8000, then go to http://localhost/8000
-- 3) click on cultivation_game_fixed. i might change this in the morning for more features idk we'll see
-- 4) CHANGE LINE 480 TO YOUR ACTUAL CLAUDE API KEY SO IT ACTUALLY WORKS THE FALLBACKS ARE REALLY SCUFFED NGL cus i didnt put enough time in i spent so much effort
+1) [download or copy ssh](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
+2) Run with python3 -m http.server 8000, then go to http://localhost/8000
+3) click on cultivation_game_fixed. i might change this in the morning for more features idk we'll see
+4) CHANGE LINE 480 TO YOUR ACTUAL CLAUDE API KEY SO IT ACTUALLY WORKS THE FALLBACKS ARE REALLY SCUFFED NGL cus i didnt put enough time in i spent so much effort
     - https://platform.claude.com/docs/en/api/admin/api_keys/retrieve (if you dont have one)
-    - And if u dont wanna use claude gg i dont wanna figure out how u might do that sorry 😭😭😭😭😭
+    - And if u dont wanna use claude gg i dont wanna figure out how u might do that sorry 😭😭😭😭😭 (oh nvm it js doesn't work in general this is what happens when u rely on claudes built in interface)
 - it's kinda cooked ngl bro
 - never done it outside of just asking claude if it can do the api calls to the .html file, so if it works it might not just be a user issue
    - Schrodinger ahh issue
@@ -43,13 +43,15 @@ CODE SOURCES:
    - License: Anthropic API Terms of Service
    - Used for: Generating dynamic cultivation story content and choices
 
+5. Claude in general
+
 CONTENT GENERATION (As per Claude):
 -------------------
 
 1. Cultivation Story Content
    - Source: Generated dynamically by Claude API
    - Method: AI-generated original content per session
-   - Theme: Cultivation/Xianxia genre conventions (public tropes)
+   - Theme: Cultivation/Xianxia genre conventions (public tropes, fair use parodies)
    - License: Generated content (original)
    - Fallbacks: Generated through scraping and other program data cleaning into the json file
 
@@ -105,7 +107,7 @@ All content is either:
 LICENSE SUMMARY:
 ----------------
 
-- Code: Original (you may use as you wish)
+- Code: Original/Agentic (you may use as you wish)
 - Design: Original
 - Content: Dynamically generated (Anthropic API usage terms apply)
 - Technologies: Public web standards
@@ -115,7 +117,7 @@ ATTRIBUTION:
 
 If you use this code, please credit:
 - WebRTC camera code: W3C Web Standards
-- Claude API: Anthropic
+- Claude API: Anthropic and Claude
 - Original implementation: This project
 
 Last Updated: February 2, 2026
