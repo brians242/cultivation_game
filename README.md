@@ -9,6 +9,8 @@
 - it's kinda cooked ngl bro
 - never done it outside of just asking claude if it can do the api calls to the .html file, so if it works it might not just be a user issue
    - Schrodinger ahh issue
+ 
+Use the documentation in the google docs if you want to prompt these things, it's essentially webscraping and everything centric on the cultivation game.
 
 
 # SOURCES AND CITATIONS
